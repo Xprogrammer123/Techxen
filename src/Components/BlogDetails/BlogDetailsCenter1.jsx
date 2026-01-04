@@ -14,7 +14,7 @@ const BlogDetailsCenter1 = () => {
                                     </div>
                                     <div className="social-users">
                                         <ul>
-                                            <li><a href="#"><img src="/assets/img/icons/user-icon1.png" alt="" /> John William</a></li>
+                                            <li><a href="#"><img src="/assets/img/icons/user-icon1.png" alt="" /> Johnsamson</a></li>
                                             <li><a href="#"><img src="/assets/img/icons/user-icon2.png" alt="" /> Feb 25, 24</a></li>
                                             <li><a href="#"><img src="/assets/img/icons/user-icon3.png" alt="" /> Cyber Security</a></li>
                                             <li><a href="#"><img src="/assets/img/icons/user-icon4.png" alt="" /> 03 Comments</a></li>
