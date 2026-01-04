@@ -12,7 +12,7 @@ const Footer1 = () => {
                             </div>
                             <div className="space20"></div>
                             <div className="heading1">
-                              <p>At TechXen IT Solutions, we are dedicated to delivering innovative technology solutions tailored to meet the unique needs of businesses like yours. </p>
+                              <p>At TechXen IT Solutions, what is going on here  we are dedicated to delivering innovative technology solutions tailored to meet the unique needs of businesses like yours. </p>
                             </div>
                             <ul className="social-icon">
                                  <li><a href="#"><i className="bi bi-linkedin"></i></a></li>
