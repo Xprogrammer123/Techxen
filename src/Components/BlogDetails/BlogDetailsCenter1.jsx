@@ -24,7 +24,7 @@ const BlogDetailsCenter1 = () => {
                                     <div className="heading1">
                                         <h2>Protecting Your Business in the Digital Age of Cyber Security</h2>
                                         <div className="space16"></div>
-                                        <p>In todays interconnected world, cybersecurity has become a critical concern for businesses of all sizes. With cyber threats evolving rapidly and the increasing reliance on digital technology, the importance of cybersecurity cannot be overstated. In this blog post, we will delve into why cybersecurity is essential for protecting your business in the digital age.</p>
+                                        <p>In todays interconnected world, cybersecurity has become a critical concern for businesses of all sizes. With cyber threats evolving very fast and the increasing reliance on digital technology, the importance of cybersecurity cannot be overstated. In this blog post, we will delve into why cybersecurity is essential for protecting your business in the digital age.</p>
                                     </div>
                                 </div>
                             </article>
