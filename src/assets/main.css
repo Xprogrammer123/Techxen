@@ -16749,7 +16749,7 @@ a.header__search.header-search-btn p {
 .bottom-circle::after {
   content: "";
   position: absolute;
-  top: 200px;
+  top: 500px;
   height: 70%;
   width: 100%;
   background-image: url(../assets/img/bg/bottom-shape2.png);
