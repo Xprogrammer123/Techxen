@@ -16755,7 +16755,7 @@ a.header__search.header-search-btn p {
   background-image: url(../assets/img/bg/bottom-shape2.png);
   background-position: center center;
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   z-index: -9;
   animation-name: shape-animaiton4;
   animation-duration: 92s;
@@ -16766,7 +16766,7 @@ a.header__search.header-search-btn p {
 }
 
 .blog .blog2-box {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 .blog .blog2-box .image {
   border-radius: 7px;
